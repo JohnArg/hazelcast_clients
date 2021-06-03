@@ -38,9 +38,9 @@
 
     <network>
         <cluster-members>
-            <address>10.149.0.53</address>
-            <address>10.149.0.54</address>
-            <address>10.149.0.55</address>
+            <address>1.1.1.1</address>
+            <address>1.1.1.1</address>
+            <address>1.1.1.1</address>
         </cluster-members>
         <outbound-ports>
             <ports>34600</ports>

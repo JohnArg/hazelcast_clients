@@ -38,3 +38,10 @@ divided equally to the number of client threads and each client threads
 runs it own iterations.
 Multi-threaded client benchmarks can be found in the
 <i>src/main/java/client/hazelcast/multithreaded</i> package.
+
+
+## Configuration
+
+Clients use the <i>src/main/resources/hazelcast-client.xml</i> file for 
+configuration. Change this file's configuration parameters
+according to your needs.
