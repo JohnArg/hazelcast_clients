@@ -3,10 +3,13 @@
 This project was created for some experiments/benchmarks
 conducted for an MSc Thesis with title
 "Efficient State Machine Replication With RDMA RPCs in Java".
-It creates [Hazelcast IMDG](https://github.com/JohnArg/hazelcast)
+It is uploaded here for reproducibility purposes.
+
+The project can be used to create 
+[Hazelcast IMDG](https://github.com/JohnArg/hazelcast)
 clients that call CP operations on a Hazelcast IMDG cluster.
 This allows running benchmarks on the Hazelcast IMDG's CP
-subsystem performance. The project was used in the evaluation
+subsystem performance. The project's code was used in the evaluation
 process of the MSc Thesis to evaluate the performance of
 Hazelcast IMDG's CP subsystem when using either RDMA or TCP 
 socket communications.
